@@ -4,7 +4,6 @@ const CONFIG = {
   HEXO_HOME_BANNER_GREETINGS: [
     '循此苦旅',
     '以抵繁星',
-
   ], // 首页大图标语文字
 
   HEXO_HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
